@@ -123,4 +123,12 @@ def sort[A](xs: List[A])(implicit o: Ordering[A]) =
 
 ---
 
+### Further reading
+- https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html
+- https://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html
+- https://www.youtube.com/watch?v=1e9tcymPl7w
+- https://typelevel.org/cats/typeclasses.html
+
+---
+
 ## Questions
